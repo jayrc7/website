@@ -63,6 +63,7 @@ body{
     .front-logo{
         height: 300px;
         width: 300px;
+        padding-left: 5px;
     }
 
     h1.title{
