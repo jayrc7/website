@@ -83,7 +83,7 @@ p{
         height: 150px;
         width: 150px;
         padding-right: 0px;
-        margin: 0px -20px 0px 0px;
+        margin: -30px -20px 0px 0px;
 
     }
 
@@ -103,6 +103,7 @@ p{
 
     p{
         font-size: 5px;
+        padding-left: 100px;
         padding-left: 300px;
         
     }
