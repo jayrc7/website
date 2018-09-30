@@ -70,8 +70,8 @@ body{
 /* mobile */
 @media only screen and (max-width: 1000px){
     .front-logo{
-        height: 200px;
-        width: 200px;
+        height: 100px;
+        width: 100px;
     }
 
     h1.title{
@@ -82,7 +82,7 @@ body{
         font-size: 15px;
     }
 
-    h2.next-picture{
+    h1.next-picture{
         font-size: 20px;
     }
 }
