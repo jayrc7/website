@@ -32,7 +32,7 @@ h2.below-title{
 h1.next-picture{
     font-size: 50px;
     color: Yellow;
-    padding-right: 430px;
+    padding-right: 400px;
     margin: 0px 0px -20px 0px;
 }
  
@@ -63,7 +63,7 @@ h2.description{
     font-size: 25px;
     color: white;
     text-align: left;
-    padding-left: 15px;
+    padding-left: 30px;
 }
 
 
@@ -108,6 +108,7 @@ h2.description{
     }
 
     h2.description{
+        margin: -3px 0px 0px 0px;
         font-size: 15px;
         padding-top: 5px;
         text-align: left;
