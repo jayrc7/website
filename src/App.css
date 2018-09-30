@@ -25,6 +25,15 @@ h2.below-title{
     padding-right: 15px;
     padding-bottom: 15px;
     height: 500px;
+    float: left;
+    
+}
+
+h1.next-picture{
+    padding-top: 30px;
+    font-size: 60px;
+    color: Yellow;
+    padding-right: 300px;
 }
  
 body{
@@ -51,7 +60,7 @@ body{
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
+  from { transform: rotat(0deg); }
   to { transform: rotate(360deg); }
 }
 
@@ -61,9 +70,8 @@ body{
 /* mobile */
 @media only screen and (max-width: 1000px){
     .front-logo{
-        height: 300px;
-        width: 300px;
-        padding-left: 5px;
+        height: 200px;
+        width: 200px;
     }
 
     h1.title{
@@ -72,5 +80,9 @@ body{
 
     h2.below-title{
         font-size: 15px;
+    }
+
+    h2.next-picture{
+        font-size: 20px;
     }
 }
