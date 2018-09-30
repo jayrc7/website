@@ -13,6 +13,7 @@ class App extends Component {
         <p className="App-intro">
           How are you?
         </p>
+        <body></body>
       </div>
     );
   }
