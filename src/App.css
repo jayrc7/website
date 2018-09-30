@@ -78,12 +78,16 @@ h2.description{
 
 /* mobile */
 @media only screen and (max-width:800px){
+
+    .App{
+        width: 80%;
+    }
     .front-logo{
         padding-top: 40px;
-        height: 150px;
-        width: 150px;
+        height: 300px;
+        width: 300px;
         padding-right: 0px;
-        margin: -43px -20px 0px 0px;
+        margin: -43px 0px 0px 0px;
         float: none;
 
     }
@@ -98,15 +102,15 @@ h2.description{
     }
 
     h1.next-picture{
-        font-size: 17px;
-        padding-right: 0px;
-        margin: -23px 0px 0px 0px;
+        font-size: 25px;
+        padding-top: 20px;
+
     }
 
     h2.description{
-        font-size: 6px;
+        font-size: 15px;
         padding-left: 160px;
-        margin: -2px 0px 0px 0px;
+        padding-top: 5px;
         
     }
 }
