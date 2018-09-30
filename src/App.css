@@ -84,10 +84,12 @@ p{
         width: 150px;
         padding-right: 0px;
         margin: 0px -20px 0px 0px;
+
     }
 
     h1.title{
         font-size: 30px;
+        margin: 0px 0px -10px 0px;
     }
 
     h2.below-title{
@@ -101,6 +103,7 @@ p{
 
     p{
         font-size: 5px;
+        padding-left: 300px;
         
     }
 }
