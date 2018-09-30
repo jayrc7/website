@@ -79,9 +79,6 @@ h2.description{
 /* mobile */
 @media only screen and (max-width:800px){
 
-    .App{
-        width: 80%;
-    }
     .front-logo{
         padding-top: 40px;
         height: 300px;
