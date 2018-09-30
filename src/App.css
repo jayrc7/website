@@ -1,6 +1,20 @@
 .App {
   text-align: center;
 }
+
+h1.title{
+    text-align: center;
+    color: Yellow;
+    font-size: 70px;
+    padding-top: 30px;
+    margin: 0px 0px -20px 0px;
+}
+
+h2.below-title{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
  
 body{
     background-color: Salmon;

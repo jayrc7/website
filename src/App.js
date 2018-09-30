@@ -5,10 +5,12 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-          <h1> Jason Cabrera</h1>
-           <h2> Sophomore at University of California, San Diego: B.S Mathematics - Computer Science </h2> 
+      <div>
+      <div>
+          <h1 className = "title"> Jason Cabrera</h1>
+           <h2 className = "below-title"> Sophomore at University of California, San Diego: B.S Mathematics - Computer Science </h2> 
         <body></body>
+      </div>
       </div>
     );
   }
