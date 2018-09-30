@@ -21,7 +21,7 @@ h2.below-title{
 .front-logo{
     padding-top: 50px;
     border-radius: 25px;
-    padding-right: 15px;
+    padding-right: 35px;
     padding-bottom: 15px;
     height: 500px;
     float: left;
@@ -101,7 +101,7 @@ h2.description{
     h1.next-picture{
         font-size: 25px;
         padding-top: 20px;
-        text-align: left;
+        text-align: center;
         padding-right: 0px;
         margin: 0px 0px 0px 0px;
 
