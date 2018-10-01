@@ -154,6 +154,7 @@ img.resume{
     }
 
     div.for-nav{
+        overflow-x: hidden;
     }
 
     
