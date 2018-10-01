@@ -146,11 +146,12 @@ img.resume{
 
     h2.description{
         font-size: 20px;
+        padding-left: 0px;
         
     }
 
     div.for-nav{
-        overflow: hidden;
+        float: left;
     }
 
     
