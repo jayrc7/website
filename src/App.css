@@ -73,6 +73,38 @@ h2.description{
   to { transform: rotate(360deg); }
 }
 
+div.for-nav{
+    float: right;
+    height: 70px;
+    width: 300px;
+    background-color: pink;
+    width: 500px;
+    color: green;
+    padding-right: 142px;
+    border-radius: 25px;
+}
+
+img.git{
+    margin: 0px -175px 0px 0px;
+}
+
+img.linked{
+    height: 75px;
+    margin: 0px -5px 0px 0px;
+}
+
+img.email{
+    height: 58px;
+    padding-top: 5px;
+    padding-right: 70px;
+    height: 60px;
+
+}
+img.resume{
+    width: 57px;
+    margin: 0px -5px 0px 0px;
+}
+
 
 
 
@@ -115,4 +147,6 @@ h2.description{
         padding-left: 0px;
         
     }
+
+
 }
