@@ -97,7 +97,6 @@ img.email{
     height: 58px;
     padding-top: 5px;
     padding-right: 70px;
-    height: 60px;
 
 }
 img.resume{
@@ -139,14 +138,30 @@ img.resume{
 
     }
 
+
+    div.contain{
+        padding-left: 480px;
+    }
+
     h2.description{
-        margin: -3px 0px 0px 0px;
-        font-size: 15px;
-        padding-top: 5px;
-        text-align: center;
-        padding-left: 0px;
         
     }
+
+    div.for-nav{
+    }
+
+    
+    img.git{
+    }
+
+    img.linked{
+    }
+
+    img.email{
+    }
+    img.resume{
+    }
+
 
 
 }
