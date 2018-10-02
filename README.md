@@ -1,7 +1,7 @@
 # website
 Personal Website developed with ReactJS, hosted on github pages and can be found at <a href = "https://jasonrcabrera.com"> jasonrcabrera.com </a>
 
-Currently exploring ReactJS and all the interactive possibilities.
+Currently exploring ReactJS and all the interactive possibilities with JavaScript.
 
 Source code is found in the master branch. Built static branch is found in the gh-pages branch.
 
