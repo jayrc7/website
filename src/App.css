@@ -237,6 +237,11 @@ img.resume{
         margin: 0px 0px 0px 0px;
     }
 
+    img.resume{
+        padding-left: 0px;
+        margin:-10px 0px 0px -4px;
+    }
+
 
 }
 /* mobile */
