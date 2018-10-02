@@ -196,6 +196,48 @@ img.resume{
 
 }
 
+@media only screen and (max-width: 1300px){
+    body{
+        background-color: Salmon;
+    }
+    
+    img.front-logo{
+        height: 400px;
+        width: 450px;
+    }
+    h1.title{
+        font-size: 50px;
+    }
+
+    h2.below-title{
+        font-size: 30px;
+    }
+
+    h1.next-picture{
+        padding-right: 233px;
+        font-size: 35px;
+    }
+
+    h2.description{
+        font-size: 21px;
+    }
+    
+
+    
+    div.for-mobile{
+        width: 355px;
+    }
+
+    img.email{
+        padding-left:54px;
+    }
+
+    img.linked{
+        margin: 0px 0px 0px 0px;
+    }
+
+
+}
 /* mobile */
 @media only screen and (max-width: 600px){ 
 
@@ -265,7 +307,7 @@ img.resume{
     }
 
     img.email{
-        padding-left: 18px;
+        padding-left: 1px;
     }
     img.resume{
         padding-left: 0px;
