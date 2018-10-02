@@ -183,6 +183,19 @@ img.resume{
 
 }
 
+
+@media only screen and (max-width: 1400px){
+    body{
+        background-color: Salmon;
+    }
+
+    h1.next-picture{
+        padding-right: 210px;
+    }
+
+
+}
+
 /* mobile */
 @media only screen and (max-width: 600px){ 
 
@@ -214,7 +227,7 @@ img.resume{
         font-size: 25px;
         text-align: center;
         padding-right: 0px;
-        margin: 0px 0px -10px 0px;
+        margin: 0px 0px -22px 0px;
 
     }
 
@@ -233,8 +246,9 @@ img.resume{
     }
     
     div.for-mobile{
-        width: 270px;
-        padding-left: 20px;
+        width: 260px;
+        height: 55px;
+        padding-left: 30px;
         display: block;
         background-color: pink;
         border-radius: 25px;
@@ -242,27 +256,22 @@ img.resume{
 
     
     img.git{
-        margin: 0px -31px 0px 0px;
-        padding-right: 0px;
-        height: 40px;
-
 
     }
 
     img.linked{
-        height: 55px;
+        padding-top: 5px;
+        padding-right: 0px;
     }
 
     img.email{
-        height: 40px;
+        padding-left: 18px;
     }
     img.resume{
-        padding-left: 2px;
-        height: 40px;
-        width: 40px;
-        margin: -2px -5px 0px -1px;
+        padding-left: 0px;
+        padding-top: 7px;
     }
+
 }
 
-   
 

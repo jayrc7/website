@@ -49,10 +49,13 @@ class App extends Component {
                  </th>
            </tr>
            </table>
+
+           </div>
+            
+
            </div>
 
-
-           </div> 
+           <br />
 
 
       </div>
