@@ -66,6 +66,10 @@ h2.description{
     padding-left: 30px;
 }
 
+div.for-mobile{
+    display: none;
+}
+
 
 
 @keyframes App-logo-spin {
@@ -105,8 +109,6 @@ img.resume{
 }
 
 
-
-
 /* mobile */
 @media only screen and (max-width: 600px){ 
 
@@ -131,7 +133,6 @@ img.resume{
     }
 
     body{
-        overflow-x: hidden!important;
     }
 
     h1.next-picture{
@@ -144,9 +145,7 @@ img.resume{
 
 
     div.contain{
-        padding-left: 480px;
-        overflow-x: hidden !important;
-        max-width: 100% !important;
+        padding-left: 4px;
     }
     h2.description{
         font-size: 20px;
@@ -155,10 +154,22 @@ img.resume{
     }
 
     div.for-nav{
+        display: none;
+    }
+    
+    div.for-mobile{
+        padding-left: 20px;
+        display: block;
+        background-color: pink;
+        border-radius: 25px;
     }
 
     
     img.git{
+        margin: 0px 0px 0px 0px;
+        padding-right: 0px;
+
+
     }
 
     img.linked{
@@ -167,6 +178,7 @@ img.resume{
     img.email{
     }
     img.resume{
+        padding-left: 2px;
     }
 
 
