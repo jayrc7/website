@@ -226,10 +226,11 @@ img.resume{
     
     div.for-mobile{
         width: 355px;
+        padding-left: 55px;
     }
 
     img.email{
-        padding-left:54px;
+        padding-left:47px;
     }
 
     img.linked{
