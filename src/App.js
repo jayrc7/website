@@ -15,20 +15,40 @@ class App extends Component {
             
            <div className = "contain">
            <div className = "for-nav">
-               <a href = "mailto:jrcabrer@ucsd.edu" title = "Email"target = "_blank"><img className = "email" src = "https://ubisafe.org/images/email-vector.png" /> </a>
-                <a href= "https://github.com/jayrc7" target = "_blank" title = "GitHub"><img className = "git"src="https://4.bp.blogspot.com/--omgjr2n6eg/WyN-i8kG6PI/AAAAAAAASGc/4rW8yeCYWPogpTdE9Y50ry2vcFy_l4rjQCLcBGAs/s320/github.jpg"/></a>
-                <a href = "https://www.linkedin.com/in/jason-cabrera-b45522167/" target = "_blank" title = "LinkedIn"> <img className = "linked" src = "https://2.bp.blogspot.com/-RDbj7QYLEog/WyODFhyIcBI/AAAAAAAASGo/Q3UFQ8u-RlQhhOkY8843Z6i1Xks1ywU8gCLcBGAs/s320/linkedin.png" /> </a>
+             <table>
+          <tr>
+                <th>
+                               <a href = "mailto:jrcabrer@ucsd.edu" title = "Email"target = "_blank"><img className = "email" src = "https://ubisafe.org/images/email-vector.png" /> </a>
+                </th>
 
+                <th>
+                <a href= "https://github.com/jayrc7" target = "_blank" title = "GitHub"><img className = "git"src="https://4.bp.blogspot.com/--omgjr2n6eg/WyN-i8kG6PI/AAAAAAAASGc/4rW8yeCYWPogpTdE9Y50ry2vcFy_l4rjQCLcBGAs/s320/github.jpg"/></a>
+                </th>
+                <a href = "https://www.linkedin.com/in/jason-cabrera-b45522167/" target = "_blank" title = "LinkedIn"> <img className = "linked" src = "https://2.bp.blogspot.com/-RDbj7QYLEog/WyODFhyIcBI/AAAAAAAASGo/Q3UFQ8u-RlQhhOkY8843Z6i1Xks1ywU8gCLcBGAs/s320/linkedin.png" /> </a>
+                <th>
                  <a href = "https://docs.google.com/document/d/1QS9l3O1V1auV03aBINOeANODck8z9lPR6S0G3Mwr2_M/edit?usp=sharing" target = "_blank" title = "Resume"> <img className = "resume" src = "https://cdn3.iconfinder.com/data/icons/web-ui-3/128/Menu2-2-512.png" /> </a>
+                 </th>
+           </tr>
+           </table>
 
          </div>
 
           <div className = "for-mobile">
+          <table>
+          <tr>
+                <th>
                                <a href = "mailto:jrcabrer@ucsd.edu" title = "Email"target = "_blank"><img className = "email" src = "https://ubisafe.org/images/email-vector.png" /> </a>
-                <a href= "https://github.com/jayrc7" target = "_blank" title = "GitHub"><img className = "git"src="https://4.bp.blogspot.com/--omgjr2n6eg/WyN-i8kG6PI/AAAAAAAASGc/4rW8yeCYWPogpTdE9Y50ry2vcFy_l4rjQCLcBGAs/s320/github.jpg"/></a>
-                <a href = "https://www.linkedin.com/in/jason-cabrera-b45522167/" target = "_blank" title = "LinkedIn"> <img className = "linked" src = "https://2.bp.blogspot.com/-RDbj7QYLEog/WyODFhyIcBI/AAAAAAAASGo/Q3UFQ8u-RlQhhOkY8843Z6i1Xks1ywU8gCLcBGAs/s320/linkedin.png" /> </a>
+                </th>
 
+                <th>
+                <a href= "https://github.com/jayrc7" target = "_blank" title = "GitHub"><img className = "git"src="https://4.bp.blogspot.com/--omgjr2n6eg/WyN-i8kG6PI/AAAAAAAASGc/4rW8yeCYWPogpTdE9Y50ry2vcFy_l4rjQCLcBGAs/s320/github.jpg"/></a>
+                </th>
+                <a href = "https://www.linkedin.com/in/jason-cabrera-b45522167/" target = "_blank" title = "LinkedIn"> <img className = "linked" src = "https://2.bp.blogspot.com/-RDbj7QYLEog/WyODFhyIcBI/AAAAAAAASGo/Q3UFQ8u-RlQhhOkY8843Z6i1Xks1ywU8gCLcBGAs/s320/linkedin.png" /> </a>
+                <th>
                  <a href = "https://docs.google.com/document/d/1QS9l3O1V1auV03aBINOeANODck8z9lPR6S0G3Mwr2_M/edit?usp=sharing" target = "_blank" title = "Resume"> <img className = "resume" src = "https://cdn3.iconfinder.com/data/icons/web-ui-3/128/Menu2-2-512.png" /> </a>
+                 </th>
+           </tr>
+           </table>
            </div>
 
 
