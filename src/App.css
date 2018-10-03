@@ -242,12 +242,11 @@ img.resume{
         margin:-10px 0px 0px -4px;
     }
 
-
 }
 /* mobile */
 @media only screen and (max-width: 600px){ 
 
-    .front-logo{
+    img.front-logo{
         padding-top: 40px;
         height: 300px;
         width: 300px;
@@ -296,7 +295,7 @@ img.resume{
     div.for-mobile{
         width: 260px;
         height: 55px;
-        padding-left: 30px;
+        padding-left: 20px;
         display: block;
         background-color: pink;
         border-radius: 25px;
@@ -304,20 +303,29 @@ img.resume{
 
     
     img.git{
+        margin: -7px 0px 0px 0px;
+        padding-left: 0px;
+        margin: -4px -2px 0px 0px;
+        height: 42px;
 
     }
 
     img.linked{
-        padding-top: 5px;
-        padding-right: 0px;
+        padding-top: 2px;
+        padding-right: 1px;
+        margin: -4px 0px 0px 0px;
+        
     }
 
     img.email{
-        padding-left: 1px;
+        padding-left: 22px;
+        padding-top: 3px;
+        margin: -4px -2px 0px 0px;
     }
     img.resume{
         padding-left: 0px;
-        padding-top: 7px;
+        padding-top: 5px;
+        margin: -7px 0px 0px -5px;
     }
 
 }
