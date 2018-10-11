@@ -130,7 +130,8 @@ img.resume{
     h1.next-picture{
         padding-right: 230px;
         padding-bottom: 10px;
-        font-size: 40px;
+        padding-left: 600px;
+        font-size: 36px;
         margin-right: 0px 0px 0px 0px;
     }
     
@@ -153,7 +154,7 @@ img.resume{
     }
     
     img.git{
-        margin: -2px 0px 0px 0px;
+        margin: -10px 0px -7px 0px;
         padding-right: 0px;
         height: 40px;
 
@@ -162,7 +163,8 @@ img.resume{
 
     img.linked{
         height: 55px;
-        padding-right: 3px;
+        padding-right:0px;
+        margin: 0px 0px 0px 0px;
     }
 
     img.email{
