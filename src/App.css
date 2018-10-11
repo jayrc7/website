@@ -130,7 +130,6 @@ img.resume{
     h1.next-picture{
         padding-right: 230px;
         padding-bottom: 10px;
-        padding-left: 600px;
         font-size: 36px;
         margin-right: 0px 0px 0px 0px;
     }
@@ -145,7 +144,7 @@ img.resume{
 
     div.for-mobile{
         display: block;
-        padding-left: 40px;
+        padding-left: 58px;
         background-color: pink;
         border-radius: 25px;
         width: 380px;
@@ -171,7 +170,7 @@ img.resume{
         height: 40px;
         padding-right: 7px;
         padding-top: 0px;
-        padding-left: 68px;
+        padding-left: 58px;
         margin: 0px 0px 0px 0px;
 
     }
