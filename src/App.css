@@ -196,6 +196,8 @@ img.resume{
 
 }
 
+
+
 @media only screen and (max-width: 1300px){
     body{
         background-color: Salmon;
@@ -242,6 +244,13 @@ img.resume{
         margin:-10px 0px 0px -4px;
     }
 
+}
+
+
+@media only screen and (max-width: 910px){
+    body{
+        background-color: blue;
+    }
 }
 /* mobile */
 @media only screen and (max-width: 600px){ 
