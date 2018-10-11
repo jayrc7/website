@@ -37,7 +37,7 @@ h1.next-picture{
 }
  
 body{
-    background-color: Salmon;
+    background-color: black;
 }
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -115,7 +115,7 @@ img.resume{
         font-size: 60px;
     }
     body{
-        background-color: Salmon;
+        background-color: brown;
     }
 
     h2.below-title{
@@ -186,7 +186,8 @@ img.resume{
 
 @media only screen and (max-width: 1400px){
     body{
-        background-color: Salmon;
+        '''background-color: Salmon;'''
+        background-color: green;
     }
 
     h1.next-picture{
@@ -200,7 +201,7 @@ img.resume{
 
 @media only screen and (max-width: 1300px){
     body{
-        background-color: Salmon;
+        background-color: yellow;
     }
     
     img.front-logo{
@@ -247,11 +248,6 @@ img.resume{
 }
 
 
-@media only screen and (max-width: 910px){
-    body{
-        background-color: blue;
-    }
-}
 /* mobile */
 @media only screen and (max-width: 600px){ 
 
