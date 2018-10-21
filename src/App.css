@@ -365,7 +365,7 @@ img.resume{
     div.for-mobile{
         width: 200px;
         height: 55px;
-        padding-left: 15px;
+        padding-left: 40px;
         display: block;
         background-color: pink;
         border-radius: 25px;
@@ -373,9 +373,9 @@ img.resume{
 
 
     img.email{
-        padding-left: 1px;
+        padding-left: 0px;
         padding-top: 3px;
-        margin: -4px -2px 0px 0px;
+        margin: -4px -2px 0px -15px;
     }
 
 }
