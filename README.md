@@ -4,4 +4,4 @@ Currently exploring how to make webpage more interactive with JavaScript.
 
 Source code is found in the master branch. Built static branch is found in the gh-pages branch.
 
-Will look into Firebase in the future. 
+Will look into other ways to improve website.
