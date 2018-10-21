@@ -149,6 +149,8 @@ img.resume{
         border-radius: 25px;
         width: 380px;
         float: right;
+        padding-top: 0px;
+        padding-bottom: -10px;
 
     }
     
@@ -337,3 +339,34 @@ img.resume{
 }
 
 
+
+@media only screen and (max-width: 400px){
+
+     img.front-logo{
+        padding-top: 40px;
+        height: 260px;
+        width: 260px;
+        padding-right: 50px;
+        margin: -43px 0px 0px 0px;
+        float: none;
+
+
+    }
+
+    div.for-mobile{
+        width: 230px;
+        height: 55px;
+        padding-left: 15px;
+        display: block;
+        background-color: pink;
+        border-radius: 25px;
+    }   
+
+
+    img.email{
+        padding-left: 13px;
+        padding-top: 3px;
+        margin: -4px -2px 0px 0px;
+    }
+
+}
